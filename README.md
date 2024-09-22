@@ -13,7 +13,7 @@ This project is a responsive landing page designed to showcase my skills and cre
 - JavaScript
 
 ## Live Demo
-Check out the live version [here](https://natisolomon.github.io/Landing_Page).
+Check out the live version (https://natisolomon.github.io/Landing_Page).
 
 ## GitHub Repository
 You can view the source code on GitHub: [Landing Page Repository](https://github.com/natisolomon/Landing_Page.git).
